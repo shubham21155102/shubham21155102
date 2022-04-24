@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently studying [IIT BHU(VARANASI)](https://iitbhu.ac.in/)
 
-- 🌱 I’m currently learning **CP , Web Dev **
+- 🌱 I’m currently learning **CP , Web Dev**
 
 - 👯 I’m looking to learn **ML**
 
