@@ -6,6 +6,7 @@
 </h1>
 <marquee>
 <img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80"><img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80"><img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80">
 </marquee>
 <center> <img src="https://github.com/shubham21155102/onlyimages/blob/main/VID-20220424-WA0042%20(1)4.gif" width="100%"></center>
 <h3 align="center">A passionate from India blindly interested in programming.</h3>
@@ -14,11 +15,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham21155102" alt="shubham21155102" /></a> </p>
 
-- 🔭 I’m currently studying [@IIT BHU(VARANASI)](https://iitbhu.ac.in/)
+- 🔭 I’m currently studying [IIT BHU(VARANASI)](https://iitbhu.ac.in/)
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently learning **CP , Web Dev **
 
-- 👯 I’m looking to learn **everything**
+- 👯 I’m looking to learn **ML**
 
 - 🤝 I’m looking for help in blender **using Python**
 
