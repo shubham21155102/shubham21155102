@@ -15,7 +15,7 @@
 
 <center><h2>🏆 Github Profile Trophy</h2></center>
 <a href="https://github.com/shubham21155102/github-profile-trophy">
-  <img width=50 src="https://github-profile-trophy.vercel.app/?username=shubham21155102&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=shubham21155102&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 
