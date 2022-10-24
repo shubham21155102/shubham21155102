@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80">
+ 
   &nbsp;Helloo!
 &nbsp;
-  <img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80">
+  
 
 
 </h1>
