@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h1 align="center">
  
-  &nbsp;Helloo!
+  &nbsp;👨🏾‍💻🖥⌨️🖱️💻🎧🖥️🎮👾⌨🛸🦇▶
 &nbsp;
   
 
