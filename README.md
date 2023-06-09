@@ -53,6 +53,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham21155102&show_icons=true&locale=en" alt="shubham21155102" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham21155102&" alt="shubham21155102" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubham21155102&theme=prussian&hide_border=true&border_radius=6.9)](https://git.io/streak-stats)
 <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 <video source src="https://github.com/shubham21155102/onlyimages/blob/main/bw%20sketch.mp4"></video>
