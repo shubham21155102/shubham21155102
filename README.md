@@ -1,58 +1,141 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h1 align="center">
- 
-  &nbsp;👨🏾‍💻🖥⌨️🖱️💻🎧🖥️🎮👾⌨🛸🦇▶
-&nbsp;
+<div align="center">
+  
+# 👋 Hi, I'm Shubham Kumar
 
-</h1>
-<center> <img src="https://github.com/shubham21155102/onlyimages/blob/main/VID-20220424-WA0042%20(1)4.gif" width="100%"></center>
-<h3 align="center">A passionate from India blindly interested in programming.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;IIT+BHU+Student;Always+Learning+New+Things" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham21155102&label=Profile%20views&color=0e75b6&style=flat" alt="shubham21155102" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=shubham21155102&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/shubham21155102)
+[![GitHub followers](https://img.shields.io/github/followers/shubham21155102?label=Followers&style=for-the-badge&color=blue)](https://github.com/shubham21155102?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/shubham21155102?label=Stars&style=for-the-badge&color=yellow)](https://github.com/shubham21155102?tab=repositories)
 
-<center><h2>🏆 Github Profile Trophy</h2></center>
-<a href="https://github.com/shubham21155102/github-profile-trophy">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=shubham21155102&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+</div>
 
-- 🔭 I’m currently studying [IIT BHU(VARANASI)](https://iitbhu.ac.in/)
+---
 
-- 🌱 I’m currently learning **CP , Web Dev** ,DSA
+## 🚀 About Me
 
-- 👯 I’m looking to learn **ML**
+🎓 **Student at [IIT BHU (Varanasi)](https://iitbhu.ac.in/)** | 💻 Passionate Full Stack Developer  
+🌱 Currently exploring **Machine Learning, System Design, and Cloud Technologies**  
+🏆 Competitive Programmer on **CodeChef, HackerRank, LeetCode**  
+💡 Love building innovative projects and solving complex problems  
+📫 Reach me: **aishwarytutorial@gmail.com**
 
-- 🤝 I’m looking for help in blender **using Python**
+---
 
-- 💬 Ask me about **react , Node , Express , Tailwind etc..**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **aishwarytutorial@gmail.com**
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-- ⚡ Fun fact **Always busy in searching new resources.**
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shubham21155102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shubham21155102" height="30" width="40" /></a>
-<a href="https://twitter.com/sbm21155102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbm21155102" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-kumar-9a6a13232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-9a6a13232" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18427474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18427474" height="30" width="40" /></a>
-<a href="https://fb.com/100012693096274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012693096274" height="30" width="40" /></a>
-<a href="https://instagram.com/sbm__shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sbm__shubham" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sbm21155102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubham21155102" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubham_kumar_m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubham_kumar_m7" height="30" width="40" /></a>
-</p>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham21155102&show_icons=true&locale=en&layout=compact" alt="shubham21155102" /></p>
+### Other Skills
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham21155102&show_icons=true&locale=en" alt="shubham21155102" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham21155102&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="shubham21155102" /></p>
+---
 
- </a>
+## 📊 GitHub Statistics
 
- <img src="https://raw.githubusercontent.com/shubham21155102/shubham21155102/a3c49a82d3de7eda080433c7a0f15aad092939ce/profile-3d-contrib/profile-night-view.svg" alt="" style="max-width: 100%;">
- 
- </nav>
-<img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
-<video source src="https://github.com/shubham21155102/onlyimages/blob/main/bw%20sketch.mp4"></video>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham21155102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham21155102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham21155102&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=shubham21155102&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![3D Contribution](https://raw.githubusercontent.com/shubham21155102/shubham21155102/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/shubham21155102/shubham21155102/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-9a6a13232)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbm21155102)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sbm__shubham)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shubham21155102)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18427474)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sbm21155102)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shubham_kumar_m7)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/100012693096274)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ⚡ Fun Fact
+*I'm always on the hunt for new technologies and resources to learn from!*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+**Made with ❤️ by Shubham Kumar**
+
+</div>
