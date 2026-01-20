@@ -68,7 +68,6 @@
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham21155102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham21155102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham21155102&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 
