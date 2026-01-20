@@ -76,16 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=shubham21155102&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
