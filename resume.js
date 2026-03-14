@@ -166,25 +166,25 @@ const doc = new Document({
       bulletItem([{ text: "Architected RP360", bold: true }, ", a scalable, cloud-native multi-tenant SaaS platform for FDA regulatory analytics serving medical device companies. Designed the full multi-tenancy model with database-level tenant separation, row-level isolation, and per-tenant URL routing across NestJS, Next.js/Angular frontends, and a Golang core backend exposing RESTful APIs."]),
 
       // Environments
-      bulletItem(["Set up ", { text: "three-tier deployment infrastructure", bold: true }, ": Docker Compose for local dev, self-managed Kubernetes (kubeadm on EC2) for staging at staging.rp360.io, and ", { text: "AWS EKS for production", bold: true }, " \u2014 spanning 13 microservices across Python/FastAPI, Go, and Node.js with Terraform IaC, Nginx ingress, and GitHub Actions CI/CD."]),
+      bulletItem(["Provisioned ", { text: "three-tier deployment infrastructure", bold: true }, ": Docker Compose for local dev, self-managed Kubernetes (kubeadm on EC2) for staging at staging.rp360.io, and ", { text: "AWS EKS for production", bold: true }, " \u2014 spanning 13 microservices across Python/FastAPI, Go, and Node.js with Terraform IaC, Nginx ingress, and GitHub Actions CI/CD."]),
 
       // Data warehouse
-      bulletItem(["Designed a ", { text: "Snowflake star-schema data warehouse", bold: true }, " (78 tables across 5 schemas) ingesting 9.4M+ adverse event records, UDI, 510(k), PMA, recalls, and classification datasets. Built fuzzy-matching bridge tables linking UDI devices to 510(k) clearances where no direct key existed."]),
+      bulletItem(["Designed a ", { text: "Snowflake star-schema data warehouse", bold: true }, " (78 tables across 5 schemas) ingesting 9.4M+ adverse event records, UDI, 510(k), PMA, recalls, and classification datasets. Created fuzzy-matching bridge tables linking UDI devices to 510(k) clearances where no direct key existed."]),
 
       // Data pipeline
-      bulletItem(["Built a production ", { text: "OpenFDA data pipeline", bold: true }, " (26 Python files) with change detection, JSON\u2192Parquet conversion, S3 upload, and schema validation against FDA reference files. Orchestrated pipelines using ", { text: "Apache Airflow", bold: true }, " for scheduled ingestion and transformation."]),
+      bulletItem(["Developed a production ", { text: "OpenFDA data pipeline", bold: true }, " (26 Python files) with change detection, JSON\u2192Parquet conversion, S3 upload, and schema validation against FDA reference files. Orchestrated pipelines using ", { text: "Apache Airflow", bold: true }, " for scheduled ingestion and transformation."]),
 
       // Auth
       bulletItem(["Implemented ", { text: "enterprise SSO and authentication", bold: true }, " (Google, Microsoft, Okta via SAML + OIDC), TOTP/SMS MFA, SCIM 2.0 provisioning, and JWT security with RS256 \u2014 integrated with NextAuth on the frontend."]),
 
       // Authorization
-      bulletItem(["Built a ", { text: "Zanzibar-inspired authorization system using OpenFGA", bold: true }, " with a five-level hierarchy (SuperAdmin \u2192 Tenant \u2192 OrgAdmin \u2192 Custom Roles \u2192 Users) and Redis-cached permission checks, replacing per-request DB lookups."]),
+      bulletItem(["Constructed a ", { text: "Zanzibar-inspired authorization system using OpenFGA", bold: true }, " with a five-level hierarchy (SuperAdmin \u2192 Tenant \u2192 OrgAdmin \u2192 Custom Roles \u2192 Users) and Redis-cached permission checks, replacing per-request DB lookups."]),
 
       // ML + gRPC
-      bulletItem(["Integrated ", { text: "machine learning risk-scoring models via gRPC", bold: true }, " with the Golang backend, enabling low-latency inference calls. Reviewed and fixed data leakage in a CatBoost time-series forecasting model used for device risk prediction."]),
+      bulletItem(["Connected ", { text: "machine learning risk-scoring models via gRPC", bold: true }, " with the Golang backend, enabling low-latency inference calls. Reviewed and fixed data leakage in a CatBoost time-series forecasting model used for device risk prediction."]),
 
       // Elasticsearch + Doc versioning
-      bulletItem(["Integrated ", { text: "Elasticsearch", bold: true }, " for cross-dataset search, built a Git-like document versioning system, and set up a centralized ", { text: "observability stack", bold: true }, " with ClickHouse for log analytics, Uber Zap for structured logging in Go, and Grafana for real-time performance monitoring and alerting."]),
+      bulletItem(["Integrated ", { text: "Elasticsearch", bold: true }, " for cross-dataset search, created a Git-like document versioning system, and established a centralized ", { text: "observability stack", bold: true }, " with ClickHouse for log analytics, Uber Zap for structured logging in Go, and Grafana for real-time performance monitoring and alerting."]),
 
       techLine("NestJS, Next.js, Angular, Golang (Uber Zap), FastAPI, PostgreSQL, Snowflake, ClickHouse, AWS (EKS, EC2, S3), Kubernetes, Docker, Terraform, OpenFGA, Elasticsearch, Grafana, Apache Airflow, Kafka, gRPC, Redis"),
 
@@ -192,14 +192,14 @@ const doc = new Document({
       roleHeader("Full-Stack Developer Intern", "Acencore"),
       dateLine("2024"),
       bulletItem(["Built an ", { text: "AI-powered video interview platform", bold: true }, " with automated scoring using ML models, handling 50+ concurrent interviews with a backend optimized for 10,000+ resume uploads."]),
-      bulletItem(["Set up an ", { text: "RTMP streaming server", bold: true }, " with OpenAI Whisper for real-time speech-to-text at 95% transcription accuracy. Designed the full pipeline: video ingestion (Amazon IVS), real-time processing (Kafka + WebSocket), storage (S3), and scoring."]),
+      bulletItem(["Deployed an ", { text: "RTMP streaming server", bold: true }, " with OpenAI Whisper for real-time speech-to-text at 95% transcription accuracy. Designed the full pipeline: video ingestion (Amazon IVS), real-time processing (Kafka + WebSocket), storage (S3), and scoring."]),
       techLine("NestJS, FastAPI, Kafka, Amazon IVS, RTMP, WebSocket, Whisper, Docker, AWS EC2/S3"),
 
       // --- Ostello ---
       roleHeader("Backend Developer & DevOps Intern", "Ostello India Pvt. Ltd."),
       dateLine("2024"),
       bulletItem(["Engineered backend services with NestJS and integrated ", { text: "PostgreSQL + Redis caching", bold: true }, ", reducing data retrieval latency by 50% and improving API response times across the platform."]),
-      bulletItem(["Led deployment on ", { text: "AWS Elastic Beanstalk with Nginx", bold: true }, ", achieving 99.9% uptime. Built CI/CD pipelines with Docker and GitHub Actions for zero-downtime deployments."]),
+      bulletItem(["Led deployment on ", { text: "AWS Elastic Beanstalk with Nginx", bold: true }, ", achieving 99.9% uptime. Configured CI/CD pipelines with Docker and GitHub Actions for zero-downtime deployments."]),
       techLine("NestJS, PostgreSQL, Redis, AWS Elastic Beanstalk, Nginx, Docker, GitHub Actions"),
 
       // PAGE BREAK
@@ -210,7 +210,7 @@ const doc = new Document({
       dateLine("2023"),
       bulletItem(["Developed a ", { text: "real-time vehicle management system", bold: true }, " (web + mobile) with GPS tracking for Utkal C mining equipment, improving operational efficiency by 40%."]),
       bulletItem(["Automated ", { text: "coal seam visualization and reserve estimation", bold: true }, " \u2014 reduced AutoCAD drawing generation from 7 days to 20 seconds using Python scripting and DataMine integration."]),
-      bulletItem(["Built 3D sump dewatering models, calculating water volumes and pump efficiency with 30% improved accuracy over manual methods."]),
+      bulletItem(["Created 3D sump dewatering models, calculating water volumes and pump efficiency with 30% improved accuracy over manual methods."]),
       techLine("Python, JavaScript, Kotlin, Next.js, NestJS, Redis, PostgreSQL, AutoCAD, DataMine"),
 
       // ===== EDUCATION =====
@@ -221,7 +221,7 @@ const doc = new Document({
 
       // ===== LEADERSHIP =====
       sectionHeading("Leadership & Activities"),
-      bulletItem([{ text: "Tech Head, Film & Media Council", bold: true }, ", IIT BHU \u2014 Led technical operations for FMC Weekend; built event website with auto-email triggers and scalability for peak traffic."]),
+      bulletItem([{ text: "Tech Head, Film & Media Council", bold: true }, ", IIT BHU \u2014 Directed technical operations for FMC Weekend; developed event website with auto-email triggers and scalability for peak traffic."]),
       bulletItem([{ text: "Technical Executive, Science & Technology Council", bold: true }, ", IIT BHU \u2014 Led a team of 10 to organize a tech symposium for 500+ participants."]),
       bulletItem([{ text: "Core Team, Software Development Group", bold: true }, ", IIT BHU \u2014 Mentored 100+ students in software development year-round."]),
     ]
